@@ -2,4 +2,5 @@ ako najlepsie commitovat ked koduju vacsie timi - 20 ludi
 aka je best practice?
 co je 4-phase mode?
 naco si pri commitovani davat pozor? 
-git status
+na co sluzi git status?
+co robi prikaz git fetch?
