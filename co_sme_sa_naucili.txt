@@ -2,3 +2,4 @@ ako vytvorit file
 ako spravit pull & push
 ako resolvnut conflict
 ako si spravit clone
+ako commitovat
