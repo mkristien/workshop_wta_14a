@@ -5,4 +5,4 @@ ako si spravit clone
 ako commitovat
 ako vytvarat vetvy
 pull request
-
+branch protection (ochrana vetiev)
